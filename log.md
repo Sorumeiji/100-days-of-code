@@ -10,7 +10,7 @@ I need to have more of a set goal on what to accomplish. I think I can get a dra
 **Link to work:** [Development Portfolio](https://soru.dev/)
 
 
-### Day 2: January 4th, 2020
+### Day 1: January 4th, 2020
 
 **Today's Progress**: Today I started on coding the header, sidebar and navigation and made a bit of progress.
 
